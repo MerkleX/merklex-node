@@ -1,6 +1,6 @@
 {
   "name": "merklex",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Official NodeJs client for merkleX",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,11 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
+    "big-integer": "^1.6.44",
     "big.js": "^5.2.2",
+    "ethereumjs-tx": "^2.1.0",
+    "superagent": "^5.1.0",
+    "web3": "^1.0.0-beta.55",
     "ws": "^7.0.1"
   }
 }
