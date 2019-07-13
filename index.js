@@ -1,1 +1,1 @@
-modules.exports = require('./lib/merklex');
+module.exports = require('./lib/merklex');
