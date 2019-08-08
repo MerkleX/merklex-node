@@ -1,6 +1,6 @@
 {
   "name": "merklex",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Official NodeJs client for merkleX",
   "main": "index.js",
   "scripts": {
